@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/kc-workspace/asdf-kind/compare/v1.0.0...v1.0.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([5d3eb14](https://github.com/kc-workspace/asdf-kind/commit/5d3eb145c50ff9469ccbe0c8c68654a0402ab4e4))
+
 ## 1.0.0 (2023-11-06)
 
 
